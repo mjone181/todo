@@ -17,4 +17,4 @@ export class ToDoRow extends Component{
                 />
             </td>
         </tr>
-}
+};

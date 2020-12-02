@@ -9,4 +9,4 @@ export class ToDoBanner extends Component{
                 {this.props.todoList.filter(xyz => !xyz.done).length} items still not done.
             )
         </h4>
-}
+};
